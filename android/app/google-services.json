@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "755890391733",
+    "project_id": "oxfordpsych-967c5",
+    "storage_bucket": "oxfordpsych-967c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755890391733:android:196cc1fea85b3fe0c88cfc",
+        "android_client_info": {
+          "package_name": "com.limorg.OxfordMindCare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755890391733-kfs3l9grbanrum2fqe5thlcv3c5se8pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.limorg.OxfordMindCare",
+            "certificate_hash": "2428e84dcb643bce2ff645f844fda50c880072a3"
+          }
+        },
+        {
+          "client_id": "755890391733-rav7nh7s1qgfrp4646l6nhklmdt531uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW2_6nWNkEplfU2r9Rtda5tvkC37Eltwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755890391733-ctn8sfp3rna8af0fn4kbktmll2ekfgra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755890391733-rd00cj716lc5qspcu8630mh2vi0g49mo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.limorg.OxfordMindCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
